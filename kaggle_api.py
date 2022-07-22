@@ -1,4 +1,4 @@
-#run on terminal on level C:\Users\win10> 
+#run this part on shell to download zip file
 #!pip install kaggle
 #!mkdir ~/.kaggle
 #!cp /Users/win10/Downloads/kaggle.json /Users/win10/.kaggle/kaggle.json
